@@ -41,7 +41,7 @@
 
 
 <div style="text-align: center; color: #00bfbf;">
-    <p style="color: #00bfbf; font-weight: bold;">Visitors Count</p>
+    <p style="color: white; font-weight: bold;">Visitors Count</p>
     <img src="https://profile-counter.glitch.me/{HenriRod}/count.svg" />
 </div>
 
