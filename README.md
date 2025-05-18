@@ -9,18 +9,14 @@
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenriRod&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Rodrigues github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriRod&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriRod&hide_border=true&title_color=00bfbf&text_color=00bfbf&langs_count=5&bg_color=0d1117&theme=tokyonight" >
 </div>
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriRod&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriRod&langs_count=5&theme=tokyonight" >
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriRod&bg_color=0d1117&color=00bdbd&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriRod&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HenriRod&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HenriRod&theme=dracula&hide_border=true&color=00bdbd&row=2&bg_color=0d1117&column=3&margin-w=15&margin-h=15" />
+</div>
 
 
 ### Main skills:
@@ -44,10 +40,10 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HenriRod}/count.svg" /></p> 
-<br></div>
+<div style="text-align: center; color: #00bfbf;">
+    <p style="color: #00bfbf; font-weight: bold;">Visitors Count</p>
+    <img src="https://profile-counter.glitch.me/{HenriRod}/count.svg" />
+</div>
 
 
 ### Contact:  
